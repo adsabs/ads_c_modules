@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/adsabs/ads_c_modules.svg?branch=master)](https://travis-ci.org/adsabs/ads_c_modules)
 
 This directory contains some C extensions modules for
 the ADS python library.

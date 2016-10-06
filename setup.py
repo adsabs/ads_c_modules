@@ -13,7 +13,7 @@ EXTENSIONS = [Extension(name=mod, sources=[mod + 'module.c'])
 
 setup (
      name         = "ads_modules",
-     version      = "2.0",
+     version      = "2.1",
      description  = "Looker and other modules for ADS system",
      author       = "Markus Demleitmer, Edwin Henneken",
      author_email = "ads@cfa.harvard.edu",
