@@ -1,3 +1,7 @@
+### 2.2
+
+* Coveralls integration
+
 ### 2.1
 
 * Travis integration
