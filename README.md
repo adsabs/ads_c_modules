@@ -1,5 +1,4 @@
 [![Build Status](https://travis-ci.org/adsabs/ads_c_modules.svg?branch=master)](https://travis-ci.org/adsabs/ads_c_modules)
-[![Coverage Status](https://coveralls.io/repos/github/adsabs/ads_c_modules/badge.svg?branch=master)](https://coveralls.io/github/adsabs/ads_c_modules?branch=master)
 
 This directory contains some C extensions modules for
 the ADS python library.

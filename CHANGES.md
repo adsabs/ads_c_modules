@@ -1,3 +1,8 @@
+### 2.3
+
+* Add PyPi deployment
+* Remove coveralls
+
 ### 2.2
 
 * Coveralls integration
