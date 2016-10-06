@@ -1,0 +1,6 @@
+# Ignore directories
+venv
+build
+ads_modules.egg-info
+# Ignore files
+*.so
