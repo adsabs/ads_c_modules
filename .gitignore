@@ -4,3 +4,4 @@ build
 ads_modules.egg-info
 # Ignore files
 *.so
+*.pyc
